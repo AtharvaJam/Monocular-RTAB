@@ -1,3 +1,3 @@
 # Monocular-RTAB
 
-## Performing RTAB using a Monocular Camera with Intel DepthNet Integration
+## Performing RTAB-MAP SLAM using a Monocular Camera with Intel DepthNet Integration
