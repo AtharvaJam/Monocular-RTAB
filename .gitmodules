@@ -1,0 +1,9 @@
+[submodule "src/viso2"]
+	path = src/viso2
+	url = https://github.com/srv/viso2.git
+[submodule "src/rtabmap_ros"]
+	path = src/rtabmap_ros
+	url = https://github.com/introlab/rtabmap_ros.git
+[submodule "src/image_pipeline"]
+	path = src/image_pipeline
+	url = https://github.com/ros-perception/image_pipeline.git
